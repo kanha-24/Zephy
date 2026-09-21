@@ -51,10 +51,10 @@ const projects = [
 ];
 
 const stats = [
-  { value: "3.5+", label: "Years Exp." },
-  { value: "20", label: "Years Old" },
-  { value: "10+", label: "Projects" },
-  { value: "30", label: "Clients" },
+  { value: "4.5+", label: "Years Exp." },
+  { value: "21", label: "Years Old" },
+  { value: "30+", label: "Projects" },
+  { value: "50", label: "Clients" },
 ];
 
 const stack = [
@@ -122,7 +122,7 @@ const Index = () => {
           <div className="relative overflow-hidden rounded-2xl border border-accent/30 bg-card/60 p-8 shadow-[0_0_60px_-20px_hsl(var(--accent)/0.6)] backdrop-blur md:p-10">
             <div className="absolute inset-x-0 -top-px h-px bg-gradient-to-r from-transparent via-accent/60 to-transparent" />
             <h2 className="font-display text-3xl font-semibold md:text-4xl">
-              Hey, I'm <span className="text-foreground">Alya</span>.
+              Hey, I'm <span className="text-foreground">Zephyrus</span>.
             </h2>
             <p className="mt-6 text-muted-foreground">
               I'm a graphic designer, web developer, and Discord bot builder.
@@ -260,7 +260,7 @@ const Index = () => {
           </p>
           <div className="mt-10 flex flex-wrap gap-3">
             <Button asChild size="lg" className="rounded-full bg-foreground text-background hover:bg-foreground/90">
-              <a href="mailto:arcticayl@gmail.com">
+              <a href="nexora.devv@gmail.com">
                 arcticayl@gmail.com <ArrowUpRight className="ml-1 h-4 w-4" />
               </a>
             </Button>
