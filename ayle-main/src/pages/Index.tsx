@@ -15,7 +15,7 @@ import {
   MousePointer2,
 } from "lucide-react";
 
-const DISCORD_ID = "544047377540186114";
+const DISCORD_ID = "1547664509034823704";
 
 const projects = [
   {
