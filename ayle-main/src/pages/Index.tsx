@@ -275,7 +275,7 @@ const Index = () => {
 
       <footer className="border-t border-border/60 py-10">
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-6 font-mono text-xs text-muted-foreground md:flex-row">
-          <span>© {new Date().getFullYear()} AYLE · crafted in the dark</span>
+          <span>© {new Date().getFullYear()} ZEPHYRUS · crafted in the dark</span>
           <span className="flex items-center gap-2">
             <span className="h-1.5 w-1.5 animate-pulse-glow rounded-full bg-accent" />
             system nominal
