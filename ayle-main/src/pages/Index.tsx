@@ -80,7 +80,7 @@ const Index = () => {
           </div>
 
           <h1 className="font-feminine text-7xl tracking-[0.14em] md:text-9xl">
-            <span className="text-shimmer">AYLE</span>
+            <span className="text-shimmer">ZEPHYRUS</span>
           </h1>
 
           <div className="mt-6 terminal-chip">
